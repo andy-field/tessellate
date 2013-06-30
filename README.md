@@ -1,4 +1,4 @@
-tessalate
+tessellate
 =========
 
-Tessalate
+Tessellate
